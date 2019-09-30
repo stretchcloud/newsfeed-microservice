@@ -127,4 +127,4 @@ $ echo http://$SERVICE_IP:8080
 
 You should see a output similar to this
 
-![Screen Shot 2019-09-30 at 16.04.38]([https://github.com/stretchcloud/newsfeed-microservice/blob/master/Screen%20Shot%202019-09-30%20at%2016.04.38.png](https://github.com/stretchcloud/newsfeed-microservice/blob/master/Screen Shot 2019-09-30 at 16.04.38.png))
+![newsfeed-ui](https://github.com/stretchcloud/newsfeed-microservice/blob/master/newsfeed-ui.png)
